@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "product_name": "Leandra",
+    "quantity": 66,
+    "price": 449.1,
+    "discount_price": 8,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 2,
+    "product_name": "Gilligan",
+    "quantity": 88,
+    "price": 221.8,
+    "discount_price": 7,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 3,
+    "product_name": "Myrtice",
+    "quantity": 43,
+    "price": 285.0,
+    "discount_price": 17,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 4,
+    "product_name": "Rusty",
+    "quantity": 95,
+    "price": 510.0,
+    "discount_price": 12,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 5,
+    "product_name": "Toby",
+    "quantity": 79,
+    "price": 744.9,
+    "discount_price": 7,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 6,
+    "product_name": "Cayla",
+    "quantity": 67,
+    "price": 455.9,
+    "discount_price": 10,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 7,
+    "product_name": "Brandtr",
+    "quantity": 43,
+    "price": 110.2,
+    "discount_price": 20,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 8,
+    "product_name": "Kylie",
+    "quantity": 79,
+    "price": 526.5,
+    "discount_price": 18,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 9,
+    "product_name": "Clarence",
+    "quantity": 49,
+    "price": 691.8,
+    "discount_price": 20,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  },
+  {
+    "id": 10,
+    "product_name": "Sheffie",
+    "quantity": 77,
+    "price": 898.0,
+    "discount_price": 12,
+    "image": "https://cdn.pixabay.com/photo/2024/04/12/15/46/beautiful-8692180_1280.png",
+    "image1": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png",
+    "image2": "https://cdn.pixabay.com/photo/2024/04/04/03/08/ai-generated-8674235_1280.png"
+  }
+]
